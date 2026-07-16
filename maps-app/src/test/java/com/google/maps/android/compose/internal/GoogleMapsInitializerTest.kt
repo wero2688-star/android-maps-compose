@@ -76,4 +76,4 @@ class GoogleMapsInitializerTest {
         }
         assertEquals(InitializationState.UNINITIALIZED, googleMapsInitializer.state.value)
     }
-}
+}.
